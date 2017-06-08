@@ -60,9 +60,3 @@ public class LC19RemoveNthNodeFromEndOfList {
         return dummy.next;
     }
 }
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
